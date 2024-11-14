@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amanrawat0506@gmail.com**
 
-- ⚡ Fun fact **I think I'm good at singing**
+- ⚡ Fun fact **I think**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
