@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Rawat</h1>
 <h3 align="center">🚀 Backend Developer | API Specialist 🔧 Skilled in PHP, Ruby, Dart, Flutter, and Python 💻 Passionate about building scalable, high-performance applications and clean, maintainable code. 🛠 Focused on designing and developing robust APIs, optimizing backend architectures, and solving complex technical problems. 🌟 Always learning and improving to create better solutions and drive innovation in backend development.</h3>
 
-- 🔭 I’m currently working on **Online-dawaai Flutter App**
+- 🔭 I’m currently working on **Audit CRM for LIFC**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **PHP, Python, Laravel**
 
